@@ -1,0 +1,16 @@
+# GhostText
+
+A Python-based encryption tool using RSA and AES.
+
+## Features
+
+- RSA Key Generation
+- Message Encryption
+- Message Decryption
+- File Encryption
+- File Decryption
+- Hybrid Encryption (RSA + AES)
+
+## Usage
+
+python ghosttext.py
