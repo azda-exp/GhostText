@@ -1,4 +1,4 @@
-# 👻 GhostText
+ 👻 GhostText
 
 **GhostText** is a Python-based Command Line Interface (CLI) application for encrypting and decrypting text securely. It provides a simple and lightweight way to protect sensitive messages directly from the terminal.**
 
